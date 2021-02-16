@@ -34,3 +34,45 @@
     width: 50%;
     border-radius: 100%;
 }
+.div-line{
+    width: 5%;
+    height:10px;
+    background: linear-gradient(to right ,blue, white,blue);
+    margin-left: 47%;
+    border-radius: 30px;
+}
+.card-img-one{
+    height: 150px;
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+.customize-circle{
+    height: 175px;
+    width:175px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 25%;
+    margin-top: 20%;
+}
+.my-icon{
+margin-top: 90px!important;
+}
+.video-bg{
+    height: 450px;
+    width: 100%;
+    background-image: url("../image/video background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+}
+.video-bg-wrapper{
+    height: 450px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.video-padding{
+   padding-top: 90px!important;
+    padding-bottom: 90px!important;
+}
